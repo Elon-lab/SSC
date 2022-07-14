@@ -1,0 +1,7 @@
+ENTER THE NUMBER OF EMPTY FRAMES : 3
+Enter the length of string : 10
+Enter the string : 4 7 6 1 7 6 1 2 7 2
+Enter 
+1.fifo
+2.lru
+3.exit
